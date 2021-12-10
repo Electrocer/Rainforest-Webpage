@@ -12,5 +12,12 @@ They are winter homes to many birds that breed in temperate latitudes.
 Tropical rainforests are some of the most beautiful wildernesses on our planet.
 The forests are a potential source of medicinal plants that may benefit everyone on Earth.
 
+# What is the largest Rainforests on Earth?
+
+Here are the 4 largest Rainforests on Earth:
+1st. The Amazon Rainforest (Brazil)
+2nd. The Congo Rainforest (Congo)
+3rd. The New Guinea Rainforest (Papua New Guinea)
+4th. The Valvidian Temperate Rainforest (Chile)
 
 ![Rainforest](https://user-images.githubusercontent.com/93111622/145592104-a5c25e35-78a4-4842-a41c-a1a8de6c3afe.png)
